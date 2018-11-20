@@ -1,5 +1,7 @@
 # Greedy-Salas-Clases
 Algoritmo greedy que optimiza el uso de salas segun los horarios de clase
+Se debe compilar en c, y al insertar el nombre del archivo de texto a leer debe incluir la extension (solo funciona .txt). 
+Ej: "lala2.txt" //Sin las comillas
 Recibe un archivo de texto donde el primer numero son las actividades, el segundo la cantidad de salas, y luego las fechas de inicio y fin
 
 18 //numero de actividades
